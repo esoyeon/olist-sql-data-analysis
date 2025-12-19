@@ -1,0 +1,19 @@
+# Data files
+*.sqlite
+*.db
+
+# OS files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Temp scripts
+generate_charts.py
